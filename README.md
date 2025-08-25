@@ -7,13 +7,6 @@
 
 ---
 
-## 🚀 Sobre mí
-
-- 🌱 Actualmente aprendiendo **nuevas tecnologías y frameworks**.
-- 🤓 Siempre en busca de aprender algo nuevo.
-  
----
-
 ## 🛠️ Habilidades
 
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
